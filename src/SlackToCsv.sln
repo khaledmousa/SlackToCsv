@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackToCsv", "SlackToCsv\SlackToCsv.csproj", "{57994215-33BB-4E04-AFCE-A7F38C5C1EA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackToCsv.Test", "SlackToCsv.Test\SlackToCsv.Test.csproj", "{D5061DD3-EFBA-4EB1-AA02-D2A4450D7A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57994215-33BB-4E04-AFCE-A7F38C5C1EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57994215-33BB-4E04-AFCE-A7F38C5C1EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57994215-33BB-4E04-AFCE-A7F38C5C1EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57994215-33BB-4E04-AFCE-A7F38C5C1EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5061DD3-EFBA-4EB1-AA02-D2A4450D7A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5061DD3-EFBA-4EB1-AA02-D2A4450D7A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5061DD3-EFBA-4EB1-AA02-D2A4450D7A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5061DD3-EFBA-4EB1-AA02-D2A4450D7A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
